@@ -42,4 +42,4 @@ O projeto possui objetivos, a saber:
 
 # Autor
 <p>Pablo Silva D Amato Gomes</p>
-<a href=>https://www.linkedin.com/in/pablo-damato-gomes/</a>
+<a href=https://www.linkedin.com/in/pablo-damato-gomes/>https://www.linkedin.com/in/pablo-damato-gomes/</a>
