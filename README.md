@@ -5,7 +5,8 @@ DSMovie é uma aplicação full-stack responsivo de avaliação de filmes, reali
 O sistema na Nuvem pode ser visto pelo <a href="https://dsmovie-project.netlify.app/" target="_blank">link</a>.
 
 # Layout da aplicação
-
+![Tela-principal](frontend/src/assets/img/Home.jpg)<br></br>
+![Tela-principal](frontend/src/assets/img/Avaliar.jpg)
 # Tecnologias utilizadas
 
 ## Backend
