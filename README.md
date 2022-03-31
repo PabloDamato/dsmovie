@@ -2,7 +2,7 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Socyware/dsmovie/blob/main/LICENSE) 
 # Sobre o projeto
 DSMovie é uma aplicação full-stack responsivo de avaliação de filmes, realizado durante a semana Spring React ministrado pelo professor [Nelio Alves](https://github.com/acenelio). Nesse projeto o usuário pode avaliar um filme do catálogo, para avaliar basta escolher um filme do catálogo e clicar no botão avaliar, você será direcionado para a página de avaliação, onde deverá informar um e-mail válido e atribuir uma nota. Na tela principal verá a qualificação do filme e a quantidade de avaliações atribuidas.<br>
-O sistema na Nuvem pode ser visto pelo <a href="https://dsmovie-project.netlify.app/" target="_blank">link</a>.
+O sistema na Nuvem pode ser visto pelo <a href="https://pablo-gomes-dsmovie.netlify.app/" target="_blank">link</a>.
 
 # Layout da aplicação
 ![Tela-principal](frontend/src/assets/img/Home.jpg)<br></br>
